@@ -6,7 +6,6 @@ Are you a fan of K-dramas? Were you ever eager to watch a particular drama but u
 
 ## Technologies 
 Frontend: Angular | Angular-strap 
-
 Backend: Flask 
 
 ### Project Links
@@ -49,24 +48,22 @@ Backend: Flask
 | Seed                            |    H     |      4hrs      |       0       |      0      |
 | Deployment                      |    H     |      1hrs      |       0       |      0      |
 | Bug Fix                         |    H     |      3hrs      |       0       |      0      |
-
-
-| Install and set up react router |    H     |     0.5hrs     |       0       |      0      |
-| Switch, Links, Routes           |    H     |      2hrs      |       0       |      0      |
-| Header                          |    H     |      2hrs      |       0       |      0      |
-| Home                            |    H     |      4hrs      |       0       |      0      |
-| CRUD options                    |    H     |      6hrs      |       0       |      0      |
-| aboutus/aboutuspage             |    H     |      2hrs      |       0       |      0      |
-| Menu                            |    H     |      8hrs      |       0       |      0      |
-| make your own                   |    H     |      4hrs      |       0       |      0      |
-| list of product                 |    H     |      4hrs      |       0       |      0      |
+| Install and set up angular      |    H     |     0.5hrs     |       0       |      0      |
+| Switch, Links, Routes           |    H     |      4hrs      |       0       |      0      |
+| Header                          |    H     |      4hrs      |       0       |      0      |
+| Home                            |    H     |      8hrs      |       0       |      0      |
+| CRUD options                    |    H     |      12hrs     |       0       |      0      |
+| aboutus/aboutuspage             |    H     |      4hrs      |       0       |      0      |
+| explore                         |    H     |      10hrs     |       0       |      0      |
+| list of dramas                  |    H     |      4hrs      |       0       |      0      |
 | Styling                         |    H     |      8hrs      |       0       |      0      |
 | Responsiveness                  |    H     |      5hrs      |       0       |      0      |
-| Product details                 |    L     |      7hrs      |       0       |      0      |
-| latest offers                   |    L     |      4hrs      |       0       |      0      |
-| Extra Styling                   |    L     |      2hrs      |       0       |      0      |
-| My bag/ my bag page             |    L     |      2hrs      |       0       |      0      |
-| Total                           |    H     |     83hrs      |       0       |      0      |
+| Product details                 |    H     |      7hrs      |       0       |      0      |
+| single drama                    |    H     |      8hrs      |       0       |      0      |
+| profile                         |    H     |      4hrs      |       0       |      0      |
+| log-in                          |    H     |      4hrs      |       0       |      0      |
+| user-authentication             |    H     |      4hrs      |       0       |      0      |
+| Total                           |    H     |     131hrs      |       0       |      0      |
 
 
 
