@@ -55,6 +55,7 @@ Backend: Flask
 | CRUD options                    |    H     |      12hrs     |       0       |      0      |
 | aboutus/aboutuspage             |    M     |      4hrs      |       0       |      0      |
 | explore                         |    H     |      10hrs     |       0       |      0      |
+| favorite                        |    H     |      6hrs     |       0       |      0      |
 | list of dramas                  |    H     |      4hrs      |       0       |      0      |
 | Styling                         |    M     |      8hrs      |       0       |      0      |
 | Responsiveness                  |    H     |      5hrs      |       0       |      0      |
@@ -63,7 +64,7 @@ Backend: Flask
 | profile                         |    M     |      4hrs      |       0       |      0      |
 | log-in                          |    H     |      4hrs      |       0       |      0      |
 | user-authentication             |    H     |      4hrs      |       0       |      0      |
-| Total                           |    H     |     131hrs      |       0       |      0      |
+| Total                           |    H     |     137hrs      |       0       |      0      |
 
 
 
