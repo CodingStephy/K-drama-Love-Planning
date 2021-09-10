@@ -16,7 +16,7 @@ Backend: Flask
 ### Wireframes and Architecture
 
 - Wireframes: -[All Wireframes](https://wireframepro.mockflow.com/view/MmuIRedgImb#/page/c30f9750caaa48408b8228e6664df6b5)
-- Architecture: [Google Drawing]()
+- Architecture: [Google Drawing](https://docs.google.com/drawings/d/1qDs314SBK2MPv7KXS2Mif-NOj7hp9_b1eQ1OyVxK3pc/edit?usp=sharing)
 
 ### Backend Routes 
 /shows 
@@ -41,6 +41,7 @@ Backend: Flask
 | Component                       | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------------------------- | :------: | :------------: | :-----------: | :---------: |
 | Learning Flask                  |    H     |      20hrs     |       0       |      0      |
+| Learning Angular                |    H     |      30hrs     |       0       |      0      |
 | Connection                      |    H     |      1hr       |       0       |      0      |
 | Basic Setup                     |    H     |      1hr       |       0       |      0      |
 | Routes                          |    H     |      2hrs      |       0       |      0      |
