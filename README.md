@@ -6,6 +6,7 @@ Are you a fan of K-dramas? Were you ever eager to watch a particular drama but u
 
 ## Technologies 
 Frontend: Angular | Angular-strap 
+
 Backend: Flask 
 
 ### Project Links
