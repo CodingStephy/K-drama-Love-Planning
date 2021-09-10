@@ -50,7 +50,7 @@ Backend: Flask
 | Bug Fix                         |    H     |      3hrs      |       0       |      0      |
 | Install and set up angular      |    H     |     0.5hrs     |       0       |      0      |
 | Switch, Links, Routes           |    H     |      4hrs      |       0       |      0      |
-| Header                          |    H     |      4hrs      |       0       |      0      |
+| Header                          |    L     |      4hrs      |       0       |      0      |
 | Home                            |    H     |      8hrs      |       0       |      0      |
 | CRUD options                    |    H     |      12hrs     |       0       |      0      |
 | aboutus/aboutuspage             |    M     |      4hrs      |       0       |      0      |
