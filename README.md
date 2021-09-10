@@ -53,14 +53,14 @@ Backend: Flask
 | Header                          |    H     |      4hrs      |       0       |      0      |
 | Home                            |    H     |      8hrs      |       0       |      0      |
 | CRUD options                    |    H     |      12hrs     |       0       |      0      |
-| aboutus/aboutuspage             |    H     |      4hrs      |       0       |      0      |
+| aboutus/aboutuspage             |    M     |      4hrs      |       0       |      0      |
 | explore                         |    H     |      10hrs     |       0       |      0      |
 | list of dramas                  |    H     |      4hrs      |       0       |      0      |
-| Styling                         |    H     |      8hrs      |       0       |      0      |
+| Styling                         |    M     |      8hrs      |       0       |      0      |
 | Responsiveness                  |    H     |      5hrs      |       0       |      0      |
 | Product details                 |    H     |      7hrs      |       0       |      0      |
 | single drama                    |    H     |      8hrs      |       0       |      0      |
-| profile                         |    H     |      4hrs      |       0       |      0      |
+| profile                         |    M     |      4hrs      |       0       |      0      |
 | log-in                          |    H     |      4hrs      |       0       |      0      |
 | user-authentication             |    H     |      4hrs      |       0       |      0      |
 | Total                           |    H     |     131hrs      |       0       |      0      |
